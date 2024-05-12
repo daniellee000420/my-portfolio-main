@@ -32,9 +32,9 @@ const Banner = () => {
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
             cursor={true}
             sequence={[
-              "A Back-end Developer",
+              "Mern Developer",
               2000,              
-              "A Mern-stack Developer",
+              "Node.js Lover",
               2000,
               "A Full-stack Developer",
               2000
@@ -45,17 +45,17 @@ const Banner = () => {
           />
         </div>
         <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
-          As a MERN stack developer, I am committed to building high-quality web
-          applications that meet the needs of my clients. With years of
-          experience in full-stack web development, I specialize in using
-          Express.js, and Node.js, React.js, MongoDB, Next js, Typescript to
-          create scalable and robust web applications.
+        As an experienced full-stack developer with over 9 years of experience,Likes to work in an agile development team that iterates rapidly, Loves new technological challenges and excels at solving them and Loves a creative mind,   keen ability, and the initiative to think beyond.
+        Seeking out for new technologies and staying up-to-date firmly on market & industry trends, I have possessed lots
+        of golden skills and know-hows in diverging IT fields.
+        Proficient in various platforms, languages, and embedded systems.
+        Able to effectively self-manage during independent projects, as well as collaborate in a team setting
           {/* I am a Front-end Developer. I am very passionate to my work and
           dedicated to explore New Tools And Technologies. */}
         </p>
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1k1xCvPtzKuugnjJR4eTWOULjpwHUGoPL/view?usp=sharing"
             target="blank"
           >
@@ -65,7 +65,7 @@ const Banner = () => {
                 <FaDownload />
               </span>
             </button>
-          </a>
+          </a> */}
           <Link to="/about" className="ml-4">
             <SecondaryBtn>
               <span>About Me</span>

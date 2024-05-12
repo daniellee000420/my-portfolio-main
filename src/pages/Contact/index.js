@@ -153,7 +153,7 @@ const Contact = () => {
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
 
             <h3 className="font-medium text-primary">
-              Karawang, Jawa Barat, Indonesia
+              Karawang, Jawa Barat, United State
             </h3>
           </div> */}
           {/* <div className="mt-8 flex items-center">

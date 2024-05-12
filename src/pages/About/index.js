@@ -26,7 +26,6 @@ const About = () => {
           </h1>
           <BottomLine />
         </motion.div>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-20">
           <motion.div
             initial={{ x: -200, opacity: 0 }}
             animate={{
@@ -35,12 +34,12 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <img
+            {/* <img
               src="https://i.ibb.co/7Jbw636/non-background-picture1.png"
               alt="Daniel Lee"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Daniel Lee"
-            />
+            /> */}
 
           </motion.div>
           <motion.div
@@ -100,26 +99,25 @@ const About = () => {
                 daniel.lee0218929@gmail.com
               </h2>
               {/* <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, Indonesia
+                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, United State
               </h2> */}
               <a
                 href="https://drive.google.com/file/d/1k1xCvPtzKuugnjJR4eTWOULjpwHUGoPL/view?usp=sharing"
                 target="blank"
               >
-                <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
+                {/* <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
                   <button className="primary-button">
                     <span>My Resume</span>
                     <span>
                       <FaDownload />
                     </span>
                   </button>
-                </div>
+                </div> */}
 
               </a>
             </div>
           </motion.div>
         </div>
-      </div>
 
       {/* My Skill */}
       <MySkill />
