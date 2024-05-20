@@ -1,7 +1,6 @@
 <h1 align ="center" >Daniel Lee | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/16r18tc8RhGEiQoOGTTFvgZ0g46C_oQFe/view?usp=share_link">Resume 💼</a> </h5>
 <br/>
 
 - [Configuration and Setup](#configuration-and-setup)
